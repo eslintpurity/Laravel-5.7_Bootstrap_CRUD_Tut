@@ -1,1 +1,1 @@
-# Laravel-5.7_Bootstrap_CRUD_Tut
+A minimalistic and straight forward tutorial to launch your Laravel 5.7 Basic CRUD Applications.
